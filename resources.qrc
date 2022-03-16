@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="figuras">
+    <file>document--minus.png</file>
+  </qresource>
+</RCC>
